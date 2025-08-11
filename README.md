@@ -1,5 +1,4 @@
-![Header](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4ef4a274-be44-4523-911a-7e1fee072bb1" />
-)
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Cabello</h1>
 <h3 align="center">A passionate frontend developer from Paraguay</h3>
 

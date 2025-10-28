@@ -35,3 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manucabello&" alt="manucabello" /></p>
 
+[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)](https://github.com/anuragkumarq/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)](https://github.com/anuragkumarq/github-readme-stats)
+

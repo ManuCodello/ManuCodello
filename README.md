@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucabello&show_icons=true&locale=en&layout=compact" alt="manucabello" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manucabello&show_icons=true&locale=en" alt="manucabello" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manucabello&" alt="manucabello" /></p>
 
